@@ -1,0 +1,23 @@
+{
+  "name": "rentbike",
+  "version": "1.0.0",
+  "description": "rental bike web site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanquinluis/rentbike.git"
+  },
+  "author": "Hector Santana Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanquinluis/rentbike/issues"
+  },
+  "homepage": "https://github.com/sanquinluis/rentbike#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
